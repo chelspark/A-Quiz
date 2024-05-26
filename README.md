@@ -1,2 +1,5 @@
-# A-Quiz
-completion of learning Accessibility by building a Quiz
+# <p align="center">A-Quiz Preview</p>
+
+<p align="center">
+  <img src="https://github.com/chelspark/A-Quiz/blob/main/A%20Quiz.png?raw=true">
+</p>
